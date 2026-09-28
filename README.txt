@@ -1,4 +1,5 @@
-eslam eid — Premium Portfolio
+ESLAM — Professional Portfolio v2
 
-Open index.html in any modern browser.
-All visuals used by the current design are embedded in the HTML, so no external asset files are required for the included images.
+Open index.html in a modern browser.
+The site is self-contained except for Google Fonts and the ScreenPal video players.
+17 selected projects are included. Click a project to open its ScreenPal player in a modal.
